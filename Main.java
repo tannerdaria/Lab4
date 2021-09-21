@@ -2,7 +2,7 @@ import java.util.Random;
 
 /*
 Lab 4
-Me: Tanner Daria Partner: Maggie Korte
+Me: Tanner Daria. Partner: Maggie Korte.
 Date: 9/21
 */
 
